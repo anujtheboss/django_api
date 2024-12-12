@@ -1,6 +1,3 @@
-git init
-if no branch main
-  git branch -b main
-  git add .
-  git commit -m"new branch added"
-  git push -u origin man
+```bash
+. The purpose of this API is to allow external clients to interact with the Company model and its associated data.
+```
